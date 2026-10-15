@@ -4,10 +4,7 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-about-dark.svg">
-  <img alt="About" src="./assets/h-about-light.svg" width="100%">
-</picture>
+<img alt="About" src="./assets/h-about-dark.svg#gh-dark-mode-only" width="100%"><img alt="About" src="./assets/h-about-light.svg#gh-light-mode-only" width="100%">
 
 I'm an AI graduate with research experience in **compiler-aware performance modelling of deep learning accelerators**, and hands-on experience building machine learning systems end to end, from data pipelines and LSTM forecasting to NLP and sentiment analysis. I'm currently an AI Engineering Intern at Internmo, and open to new opportunities.
 
@@ -17,10 +14,7 @@ I'm an AI graduate with research experience in **compiler-aware performance mode
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-skills-dark.svg">
-  <img alt="Expertise" src="./assets/h-skills-light.svg" width="100%">
-</picture>
+<img alt="Expertise" src="./assets/h-skills-dark.svg#gh-dark-mode-only" width="100%"><img alt="Expertise" src="./assets/h-skills-light.svg#gh-light-mode-only" width="100%">
 
 | | |
 |:--|:--|
@@ -33,10 +27,7 @@ I'm an AI graduate with research experience in **compiler-aware performance mode
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-work-dark.svg">
-  <img alt="Selected Work" src="./assets/h-work-light.svg" width="100%">
-</picture>
+<img alt="Selected Work" src="./assets/h-work-dark.svg#gh-dark-mode-only" width="100%"><img alt="Selected Work" src="./assets/h-work-light.svg#gh-light-mode-only" width="100%">
 
 <sub>**INDUSTRY PROJECTS · INTERNMO**</sub>
 
@@ -52,10 +43,7 @@ I'm an AI graduate with research experience in **compiler-aware performance mode
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-experience-dark.svg">
-  <img alt="Experience" src="./assets/h-experience-light.svg" width="100%">
-</picture>
+<img alt="Experience" src="./assets/h-experience-dark.svg#gh-dark-mode-only" width="100%"><img alt="Experience" src="./assets/h-experience-light.svg#gh-light-mode-only" width="100%">
 
 | | |
 |:--|:--|
@@ -66,10 +54,7 @@ I'm an AI graduate with research experience in **compiler-aware performance mode
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-contact-dark.svg">
-  <img alt="Contact" src="./assets/h-contact-light.svg" width="100%">
-</picture>
+<img alt="Contact" src="./assets/h-contact-dark.svg#gh-dark-mode-only" width="100%"><img alt="Contact" src="./assets/h-contact-light.svg#gh-light-mode-only" width="100%">
 
 | LinkedIn | GitHub | Email |
 |:-:|:-:|:-:|
