@@ -6,11 +6,19 @@
 
 <img alt="About" src="./assets/h-about-dark.svg#gh-dark-mode-only" width="100%"><img alt="About" src="./assets/h-about-light.svg#gh-light-mode-only" width="100%">
 
-I'm an AI graduate with research experience in **compiler-aware performance modelling of deep learning accelerators**, and hands-on experience building machine learning systems end to end, from data pipelines and LSTM forecasting to NLP and sentiment analysis. I'm currently an AI Engineering Intern at Internmo, and open to new opportunities.
+<img alt="I'm an AI graduate with research experience in compiler-aware performance modelling of deep learning accelerators, and hands-on experience building machine learning systems end to end, from data pipelines and LSTM forecasting to NLP and sentiment analysis. I'm currently an AI Engineering Intern at Internmo, and open to new opportunities." src="./assets/about-dark.svg#gh-dark-mode-only" width="100%"><img alt="I'm an AI graduate with research experience in compiler-aware performance modelling of deep learning accelerators, and hands-on experience building machine learning systems end to end, from data pipelines and LSTM forecasting to NLP and sentiment analysis. I'm currently an AI Engineering Intern at Internmo, and open to new opportunities." src="./assets/about-light.svg#gh-light-mode-only" width="100%">
 
-| Postgraduate | Undergraduate | Beyond code |
-|:--|:--|:--|
-| **Postgraduate Diploma in Artificial Intelligence**<br><sub>University of Manchester · 2024 – 2025</sub> | **BSc (Hons) Computer Science, Distinction**<br><sub>University of East London · 2021 – 2024</sub> | **Learning Japanese**<br><sub>Trinity College London, Grade 8 Keyboard</sub> |
+<div align="center">
+  <img src="./assets/edu-postgrad.svg" alt="Postgraduate: Postgraduate Diploma in Artificial Intelligence, University of Manchester · 2024 – 2025" width="32%">
+  <img src="./assets/edu-undergrad.svg" alt="Undergraduate: BSc (Hons) Computer Science Distinction, University of East London · 2021 – 2024" width="32%">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./assets/edu-japanese.svg" alt="Alongside My Postgraduate Studies: Learning Japanese, Member of a Japanese language society" width="32%">
+  <img src="./assets/edu-music.svg" alt="Music: Grade 8 Keyboard, Trinity College London · 2013 – 2021" width="32%">
+</div>
 
 <br>
 
@@ -29,17 +37,23 @@ I'm an AI graduate with research experience in **compiler-aware performance mode
 
 <img alt="Selected Work" src="./assets/h-work-dark.svg#gh-dark-mode-only" width="100%"><img alt="Selected Work" src="./assets/h-work-light.svg#gh-light-mode-only" width="100%">
 
-<sub>**INDUSTRY PROJECTS · INTERNMO**</sub>
+<p align="center"><sub><b>INDUSTRY PROJECTS · INTERNMO</b></sub></p>
 
-| | | |
-|:--|:--|:--|
-| <b>FlowCast</b><br><sub>Traffic prediction platform</sub><br><br>Data ingestion and validation, cleaning and merging, classical ML, an LSTM model and a Streamlit dashboard.<br><br><sub><code>Python</code> · <code>LSTM</code> · <code>Streamlit</code></sub> | <b>Northgate</b><br><sub>AI stock predictor</sub><br><br>Combines machine learning, deep learning and financial news sentiment to forecast prices, optimise portfolios and recommend Buy, Hold or Sell.<br><br><sub><code>Python</code> · <code>Deep learning</code> · <code>NLP</code></sub> | <b>Vantara</b><br><sub>Customer intelligence platform · in progress</sub><br><br>Predicts churn, estimates customer lifetime value and analyses purchase behaviour to support retention and personalised marketing.<br><br><sub><code>Python</code> · <code>Analytics</code></sub> |
+<div align="center">
+  <a href="https://github.com/SAMARTH-SHARMA3/Flowcast-Ai_Driven_Traffic_Analytic_Platform-"><img src="./assets/card-flowcast.svg" alt="FlowCast: Traffic prediction platform" width="32%"></a>
+  <a href="https://github.com/SAMARTH-SHARMA3/northgate-ai-stock-predictor"><img src="./assets/card-northgate.svg" alt="Northgate: AI stock predictor" width="32%"></a>
+  <a href="https://github.com/SAMARTH-SHARMA3/vantara-customer-intelligence"><img src="./assets/card-vantara.svg" alt="Vantara: Customer intelligence · in progress" width="32%"></a>
+</div>
 
-<sub>**RESEARCH & DISSERTATIONS**</sub>
+<br>
 
-| | | |
-|:--|:--|:--|
-| <b>NVDLA compiler study</b><br><sub>Postgraduate dissertation · 2025</sub><br><br>Compared NVIDIA NVDLA's native compiler with ONNC on LeNet-5, AlexNet and SqueezeNet. ONNC cut memory footprint by 12–22% and instruction counts by up to 27%.<br><br><sub><code>Python</code> · <code>ONNC</code> · <code>Caffe</code> · <code>ONNX</code></sub> | <b>Relation extraction</b><br><sub>SemEval-2010 · 2025</sub><br><br>SVM and multi-head attention BiLSTM models for semantic relation classification, reaching up to 82.9% F1 with TF-IDF, POS tagging, dependency parsing and GloVe.<br><br><sub><code>PyTorch</code> · <code>scikit-learn</code> · <code>spaCy</code></sub> | <b>Blockchain voting</b><br><sub>BSc dissertation · 2024</sub><br><br>Decentralised voting prototype on Ethereum, backed by a literature review including Estonia's e-voting and a survey of 18 respondents.<br><br><sub><code>Solidity</code> · <code>React</code> · <code>Node.js</code></sub> |
+<p align="center"><sub><b>RESEARCH &amp; DISSERTATIONS</b></sub></p>
+
+<div align="center">
+  <a href="https://github.com/SAMARTH-SHARMA3/nvdla-compiler-study"><img src="./assets/card-nvdla.svg" alt="NVDLA compiler study: Postgraduate dissertation · 2025" width="32%"></a>
+  <a href="https://github.com/SAMARTH-SHARMA3/relation-extraction-semeval"><img src="./assets/card-relation.svg" alt="Relation extraction: SemEval-2010 · 2025" width="32%"></a>
+  <a href="https://github.com/SAMARTH-SHARMA3/blockchain-voting-system"><img src="./assets/card-voting.svg" alt="Blockchain voting: BSc dissertation · 2024" width="32%"></a>
+</div>
 
 <br>
 
@@ -56,6 +70,14 @@ I'm an AI graduate with research experience in **compiler-aware performance mode
 
 <img alt="Contact" src="./assets/h-contact-dark.svg#gh-dark-mode-only" width="100%"><img alt="Contact" src="./assets/h-contact-light.svg#gh-light-mode-only" width="100%">
 
-| LinkedIn | GitHub | Email |
-|:-:|:-:|:-:|
-| [samarth-sharma](https://www.linkedin.com/in/samarth-sharma-120858242/) | [SAMARTH-SHARMA3](https://github.com/SAMARTH-SHARMA3) | samarth841sharma@gmail.com |
+<div align="center">
+  <img src="./assets/contact-headline.svg" alt="Let's talk." width="36%">
+  <br>
+  <sub>Open to opportunities.</sub>
+  <br><br>
+  <a href="https://www.linkedin.com/in/samarth-sharma-120858242/"><img src="./assets/contact-linkedin.svg" alt="LinkedIn" width="21%"></a>
+  <a href="https://github.com/SAMARTH-SHARMA3"><img src="./assets/contact-github.svg" alt="GitHub" width="21%"></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=samarth841sharma@gmail.com"><img src="./assets/contact-email.svg" alt="Email" width="21%"></a>
+  <br><br>
+  <sub>samarth841sharma@gmail.com</sub>
+</div>
