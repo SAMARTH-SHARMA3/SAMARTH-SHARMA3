@@ -78,6 +78,7 @@
   <a href="https://www.linkedin.com/in/samarth-sharma-120858242/"><img src="./assets/contact-linkedin.svg" alt="LinkedIn" width="21%"></a>
   <a href="https://github.com/SAMARTH-SHARMA3"><img src="./assets/contact-github.svg" alt="GitHub" width="21%"></a>
   <a href="https://mail.google.com/mail/?view=cm&to=samarth841sharma@gmail.com"><img src="./assets/contact-email.svg" alt="Email" width="21%"></a>
+  <a href="./assets/Samarth_Sharma_CV.pdf"><img src="./assets/contact-cv.svg" alt="CV (PDF)" width="21%"></a>
   <br><br>
   <sub>samarth841sharma@gmail.com</sub>
 </div>
